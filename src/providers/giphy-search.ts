@@ -6,7 +6,7 @@ import 'rxjs/add/operator/map';
 export class GiphySearch {
   
   link = 'http://api.giphy.com/v1/gifs/search';
-  key = 'dc6zaTOxFJmzC'
+  key = 'your api key'
 
   constructor(public http: Http) {
     console.log('Hello GiphySearch Provider');
