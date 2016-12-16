@@ -11,10 +11,11 @@ You'll need the Ionic CLI with support for v2 apps:
 $ npm install -g ionic
 ```
 
-Then run:
+After cloneing the repo:
 
 ```bash
-$ ionic start myApp
+$ cd ionic2giphysearch
+$ npm install
 ```
 
 More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
